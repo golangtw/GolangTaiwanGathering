@@ -14,3 +14,5 @@
 - [duolC: Cyril - 使用Go實作跨平台匿名配對聊天app的後台機制](http://slides.com/cyrilyu/using-golang-to#/)
 - [iotwav: Bean - Recruit for DevOps](https://docs.google.com/presentation/d/1-P3CDYI6JHJkusEn0VvGw52j3S_XV65_d7telG57yWI/edit?usp=sharing)
 - [Evan: Use go channel to write a disk queue](http://www.slideshare.net/EvansLin/use-go-channel-to-write-a-disk-queue)
+
+#### If you find link failed, check PDF [here](slides).
