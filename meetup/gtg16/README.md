@@ -22,3 +22,13 @@
 - [Evan: Use go channel to write a disk queue](http://www.slideshare.net/EvansLin/use-go-channel-to-write-a-disk-queue)
 
 #### If you find link failed, check PDF [here](slides).
+
+### Video
+
+1. [Part 1: Evan Lin - Using Golang to build a smart IM Bot ](https://www.youtube.com/watch?v=XQXW4tX3_oY)
+2. [Part 2: Using Golang to build a smart IM Bot](https://www.youtube.com/watch?v=VVnSfBb0RwU)
+3. [Lightning Talks](https://www.youtube.com/watch?v=uelv2o7MF9o)
+	- Umbo CV: Kakashi - Golang X CI X CD
+	- duolC: Cyril - 使用Go實作跨平台匿名配對聊天app的後台機制
+	- iotwav: Bean - Recruit for DevOps
+	- Evan: Use go channel to write a disk queue
