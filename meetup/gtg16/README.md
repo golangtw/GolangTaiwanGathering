@@ -11,8 +11,10 @@
 
 ### Talks - Slides
 
-- [Evan Lin: Using Golang to build a smart IM Bot](http://www.slideshare.net/EvansLin/gopher-taiwan-gathering-16-build-a-smart-bot-via-golang) 
-- [Hawk: Go+ Lambda + Dynamodb  = Telegram Bot](https://docs.google.com/presentation/d/10WKqeu0VJZaD0NxTDto3io5dirTN7J4XJI_e__3MhG0/edit?usp=sharing)
+- [Evan Lin](http://www.evanlin.com/): [Using Golang to build a smart IM Bot](http://www.slideshare.net/EvansLin/gopher-taiwan-gathering-16-build-a-smart-bot-via-golang) 
+	- Evan Lin will present how to use Golang to build a IM Bot. It include basic introduction about Golang and why Go might be the best language for IM Bot. He will also introduce how to migrade LUIS: Language Understanding Intelligent Service (beta) service to your IM Bot.
+- [Hawk](https://github.com/hawkhsieh): [Go+ Lambda + Dynamodb  = Telegram Bot](https://docs.google.com/presentation/d/10WKqeu0VJZaD0NxTDto3io5dirTN7J4XJI_e__3MhG0/edit?usp=sharing)
+	- Hawk will share his experience about how to use Go to build a Telegram IM Bot.
 
 ### Lightning Talk -  Slides
 

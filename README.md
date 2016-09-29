@@ -8,6 +8,10 @@
 [Golang.TW](http://golang.kktix.cc/)
 
 
+- [Golang Taiwan Gathering #8](meetup/gtg8) 
+- Golang Taiwan Gathering #12 
+- Golang Taiwan Gathering #13
+- Golang Taiwan Gathering #14
+- Golang Taiwan Gathering #15
 - [Golang Taiwan Gathering #16](meetup/gtg16) 
-
 
