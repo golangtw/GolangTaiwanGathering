@@ -9,8 +9,8 @@
 
 
 - [Golang Taiwan Gathering #8](meetup/gtg8)
-- [Golang Taiwan Gathering #12](meetup/gtg10)
-- [Golang Taiwan Gathering #12](meetup/gtg11)
+- [Golang Taiwan Gathering #10](meetup/gtg10)
+- [Golang Taiwan Gathering #11](meetup/gtg11)
 - [Golang Taiwan Gathering #12](meetup/gtg12)
 - [Golang Taiwan Gathering #13](meetup/gtg13)
 - [Golang Taiwan Gathering #14](meetup/gtg14)
