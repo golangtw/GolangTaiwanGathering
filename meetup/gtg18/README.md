@@ -10,7 +10,7 @@
 
 ### Talks
 
-- Umbo CV - Ramax: Write Heavy Service in Go ][Slide](https://docs.google.com/presentation/d/10V9SYlX45Q_dYFdhN0-qakVBSFbEmLvYa3QBQx2K4H4/edit?usp=sharing)], [[Video](https://youtu.be/ztVUWWm2Qbk)]
+- Umbo CV - Ramax: Write Heavy Service in Go [[Slide](https://docs.google.com/presentation/d/10V9SYlX45Q_dYFdhN0-qakVBSFbEmLvYa3QBQx2K4H4/edit?usp=sharing)], [[Video](https://youtu.be/ztVUWWm2Qbk)]
 
 分享如何使用 Go 語言來實作 heavy service。「Heavy」意指不使用輕量化的 goroutine，而是使用獨立行程來服務各個連線。我們會透過實作一個簡單的 echo server 來講解其中的細節。
 
