@@ -17,3 +17,4 @@
 - [Golang Taiwan Gathering #15](meetup/gtg15)
 - [Golang Taiwan Gathering #16](meetup/gtg16)
 - [Golang Taiwan Gathering #17](meetup/gtg17)
+- [Golang Taiwan Gathering #18](meetup/gtg18)
