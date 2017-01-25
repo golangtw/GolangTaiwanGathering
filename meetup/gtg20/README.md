@@ -19,7 +19,7 @@ Tommy will share how to take advantage of AWS-SQS features to implement a high-c
 then design the infrastructure for cooperation development ,  reducing the coupling between the system layer and the application layer
 
 
-- 20:10 ~ 20:50 Umbo CV - Kakashi: etcd: a brief introduction  [[]()],[[video](https://youtu.be/uHskez_kbGk)]
+- 20:10 ~ 20:50 Umbo CV - Kakashi: etcd: a brief introduction  [[slide](https://docs.google.com/presentation/d/15mtcBSLVSqrX4-VntqhOwqtRw2Od9Hn6xHc2hfp0zV0/edit?usp=sharing)],[[video](https://youtu.be/uHskez_kbGk)]
 
 etcd 是 CoreOS 公司用  golang 開發的一個 distributed key-value system，分享如何使用 etcd 還有 etcd 適用於什麼樣的場景。
 
