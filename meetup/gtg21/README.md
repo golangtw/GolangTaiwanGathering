@@ -10,16 +10,16 @@
 
 ### Talks
 
-- 19:30 ~ 20:10 :    Umbo CV - Kent - Go 1.8 Introduction (part 2) [[slide](slide/Golang1.8.pdf)]
+- 19:30 ~ 20:10 :    Umbo CV - Kent - Go 1.8 Introduction (part 1) [[slide](slide/Golang1.8.pdf)]
 
 
   Introduction to Go 1.8 Release
-   i.     Changes to the language
-   ii.    Ports
-   iii.   Tools
-   iv.    Runtime
-   v.     Performance
-   vi.    Standard library
+   - Changes to the language
+   - Ports
+   - Tools
+   - Runtime
+   - Performance
+   - Standard library
 
 - 贊助商時間 Dcard 徵才說明
 
