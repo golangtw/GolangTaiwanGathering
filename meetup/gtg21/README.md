@@ -10,7 +10,7 @@
 
 ### Talks
 
-- 19:30 ~ 20:10 :    Umbo CV - Kent - Go 1.8 Introduction (part 1) [[slide](slide/Golang1.8.pdf)] [[video](https://www.youtube.com/watch?v=JocbuiqLBiE)]
+- 19:30 ~ 20:10 :    Umbo CV - Kent - Go 1.8 Introduction (part 1) [[slide](slide/Golang1.8.pdf)] [[video](https://www.youtube.com/watch?v=JocbuiqLBiE)] [[demo code](https://github.com/kentwelcome/golang1.8demo)]
 
 
   Introduction to Go 1.8 Release
