@@ -21,6 +21,6 @@ Go 入門：使用 VSC 作為 Go 的 IDE
 
 ### 閃電秀
 
-- 雷亞遊戲 [[video](https://www.youtube.com/watch?v=z4_aN-aFtPw&feature=youtu.be)]
+- 雷亞遊戲 [[video](https://youtu.be/qCTgWKsRzOw)]
 - 陳小熊 - Go 新手村冒險筆記 [[slide](https://drive.google.com/file/d/0B158iGrlsSveNFVoUUF4ZTlsbVE/view)] [[video](https://www.youtube.com/watch?v=kr4MY-bPfg0&feature=youtu.be)]
 - 許小美 - "github/adams-sarah/test2doc": 從 test case 去產生 Restful API doc [[video](https://www.youtube.com/watch?v=O49fPTbGBt8&feature=youtu.be)]
