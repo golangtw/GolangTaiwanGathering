@@ -22,3 +22,4 @@
 - [Golang Taiwan Gathering #20](meetup/gtg20)
 - [Golang Taiwan Gathering #21](meetup/gtg21)
 - [Golang Taiwan Gathering #22](meetup/gtg22)
+- [Golang Taiwan Gathering #23](meetup/gtg23)
