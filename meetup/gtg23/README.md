@@ -24,6 +24,6 @@ Hawk 會來分享如何今年去參加 GoherChina 的感想．
 
 ### Lightning Talk
 
-- 21:30 ~ 21:40 CH Yeh 後端工程師的黑客松打醬油之旅 [[slide]](https://www.slideshare.net/ssuser8d8200/golang-taiwan-gathering-0418-lightning-talk)  [[video](https://www.youtube.com/watch?v=d-Dqk8bO5NU&feature=youtu.be)]
+- 21:30 ~ 21:40 CH Yeh 後端工程師的黑客松打醬油之旅 [[slide]](https://www.slideshare.net/ssuser8d8200/golang-taiwan-gathering-0418-lightning-talk)  [[video](https://www.youtube.com/watch?v=lsB_LFRuYJg&feature=youtu.be)]
 
 摘要：基本上就是分享參加 Booking.com 之前在台北辦的黑客松的經驗，以及我如何用 Go 快速架起 API module
