@@ -23,3 +23,4 @@
 - [Golang Taiwan Gathering #21](meetup/gtg21) (2017/02/16)
 - [Golang Taiwan Gathering #22](meetup/gtg22) (2017/03/25)
 - [Golang Taiwan Gathering #23](meetup/gtg23) (2017/04/18)
+- [Golang Taiwan Gathering #24](meetup/gtg24) (2017/05/23)
