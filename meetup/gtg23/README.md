@@ -10,7 +10,7 @@
 
 ### Talks
 
-- 19:30 ~ 20:10 :  Poga - go-fuzz 跟 fuzzing [[slide](bit.ly/gofuzz)] [[video](https://www.youtube.com/watch?v=1zpoyX-fWIM&feature=youtu.be)]
+- 19:30 ~ 20:10 :  Poga - go-fuzz 跟 fuzzing [[slide](https://speakerdeck.com/poga/fuzz-testing-and-go-fuzz)] [[video](https://www.youtube.com/watch?v=1zpoyX-fWIM&feature=youtu.be)]
 
 dvyukov/go-fuzz 是一個使用 Golang 作為隨機測試的工具． Poga 分享如何使用它，並且分享一些使用心得．
 
