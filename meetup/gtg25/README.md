@@ -24,7 +24,7 @@ Grumpy 是 Google 推出的 Python to Go source-to-source compiler (transcompile
 
 ### Lightning Talk
 
-- 21:20: HUGO-靜態網站生成器-2-分鐘上手 (林志傑) [[video](https://youtu.be/TnNqsyqM9DU)]
+- 21:20: HUGO-靜態網站生成器-2-分鐘上手 (林志傑) [[slide](https://speakerdeck.com/fukuball/create-static-website-with-hugo-in-2-minutes)][[video](https://youtu.be/TnNqsyqM9DU)]
 - 21:20 ~ 21:30 GoLearn [[video](https://youtu.be/H4BNNhzun2E)]
 
 
