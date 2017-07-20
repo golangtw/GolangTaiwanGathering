@@ -7,6 +7,7 @@
 
 [Golang.TW](http://golang.kktix.cc/)
 
+- [Golang Taiwan Gathering #25](meetup/gtg25) (2017/07/18)
 - [Golang Taiwan Gathering #24](meetup/gtg24) (2017/05/23)
 - [Golang Taiwan Gathering #23](meetup/gtg23) (2017/04/18)
 - [Golang Taiwan Gathering #22](meetup/gtg22) (2017/03/25)
