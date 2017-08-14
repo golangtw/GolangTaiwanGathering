@@ -7,7 +7,7 @@
 
 [Golang.TW](http://golang.kktix.cc/)
 
-- [COSCUP 2017](https://github.com/golangtw/GolangTaiwanGathering/issues/20) (2017/08/05-06)
+- [Golang Taiwan Gathering #26](meetup/gtg26) (2017/08/06) in [COUSCUP 2017](https://coscup.org/2017/#/)
 - [Golang Taiwan Gathering #25](meetup/gtg25) (2017/07/18)
 - [Golang Taiwan Gathering #24](meetup/gtg24) (2017/05/23)
 - [Golang Taiwan Gathering #23](meetup/gtg23) (2017/04/18)
