@@ -1,10 +1,10 @@
 # Golang Taiwan/Taipei Gathering #26
 
-主辦: [COSCUP 2017](https://coscup.org/2017/#/)
-地點: 台大社科院
-時間: 2017/08/06(Sun) 13:30 ~ 16:45  (UDT+8)
+* 主辦: [COSCUP 2017](https://coscup.org/2017/#/)
+* 地點: 台大社科院
+* 時間: 2017/08/06(Sun) 13:30 ~ 16:45  (UDT+8)
 
-## Talks
+## 主題
 
 ### 鮑承佑 -- Go,Java,C# 的 gRPC + Protocol Buffer 共同大亂鬥 [[slides](https://www.slideshare.net/ChenYuPao/go-java-cgrpcprotocol-buffer)]
 
