@@ -36,10 +36,15 @@ As a complement to my conference talk I’ll be teaching a workshop on the Go ex
 github.com/davecheney/[understanding-the-execution-tracer](https://github.com/davecheney/understanding-the-execution-tracer)
 
 ## Video（Low Resolution）
-### 2017/09/26 19:30 GTG#27 - Dave Cheney: High performance go without the event loop
+### 2017/09/26 19:30 GTG #27 - Dave Cheney: High performance go without the event loop
 
 - [Part01](https://youtu.be/O_1basmpvVI)
 - [Part02](https://youtu.be/Q0BTpNH9skY)
 
+## Pictures
+- [Ningxia Night Market](https://www.facebook.com/groups/269001993248363/permalink/918942128254343/)
+- [Google Taipei 101](https://www.facebook.com/groups/269001993248363/permalink/919351414880081/)
+
+<br>
 
 Thanks to Dave & Evan,
