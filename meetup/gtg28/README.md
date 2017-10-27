@@ -19,8 +19,8 @@
 ### Lightning Talk
 
 - 王思元: Deploy Your First Go WebApp to AWS [[slide](https://docs.google.com/presentation/d/1-8xBcVX4ArbcVPuDNQ5SPAa2FOFUxeSadR00Jkbmc3k/edit#slide=id.g281dba4e0c_0_100)]
-- 陳杰翰: ipfs - a brief introduction
-- 黃柏瑋: Goroutines vs. Threads vs. Processes
+- 陳杰翰: ipfs - a brief introduction [[slide](https://docs.google.com/presentation/d/1xaDJNoisktuPL96Q8S2wvtUND-q9EjkjCqVc7sCTATk/edit#slide=id.p)]
+- 黃柏瑋: Goroutines vs. Threads vs. Processes [[slide](https://www.dropbox.com/s/gjynuccg0alab9q/Goroutine_thread_1024%E5%88%86%E4%BA%AB.pptx?dl=0)]
 - Shih-Hsiang Lin: testing on concurrency [[slide](https://t.co/ioPNRpmHdy)]
 - 鮑承佑: Proto.Actor 串接Go與C#簡易上手 [[slide](https://www.slideshare.net/ChenYuPao/proto-actor-go-c-81145090)]
 
