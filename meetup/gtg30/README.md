@@ -10,17 +10,10 @@
 
 ### Talks
 
-- 19:30 ~ 20:10 : Introduction vgo (Versioned Go) Evan Lin  [[slide](https://www.slideshare.net/EvansLin/gtg30-introduction-vgo)]
+- 19:30 ~ 20:10 : Introduction vgo (Versioned Go) Evan Lin  [[slide](https://www.slideshare.net/EvansLin/gtg30-introduction-vgo)] [[video](https://www.youtube.com/watch?v=9252yf4xK8w)]
 
 Introduction anout vgo
 
-- 20:20 ~ 21:00:  Cloud Native Taiwan User Group (CNTUG)/SDNTW Co-Organizer: HW Chiu 邱宏瑋 [[slide](https://www.slideshare.net/hongweiqiu/writing-the-container-network-interfacecni-plugin-in-golang-92128553)]
+- 20:20 ~ 21:00:  Cloud Native Taiwan User Group (CNTUG)/SDNTW Co-Organizer: HW Chiu 邱宏瑋 [[slide](https://www.slideshare.net/hongweiqiu/writing-the-container-network-interfacecni-plugin-in-golang-92128553)] [[video](https://youtu.be/9252yf4xK8w?t=38m34s)]
 
-
-如何用GO撰寫CNI(Container Network Interface)
-
-[[video](https://www.youtube.com/watch?v=9252yf4xK8w&feature=youtu.be)]
-
-
-
-
+如何用 GO 撰寫 CNI (Container Network Interface)
