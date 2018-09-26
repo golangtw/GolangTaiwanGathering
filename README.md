@@ -5,8 +5,9 @@
 
 ### Detail Meetup Website
 
-[Golang.TW](http://golang.kktix.cc/)
+[Golang Taipei](https://www.meetup.com/golang-taipei-meetup/)
 
+- [Golang Taiwan Gathering #34](meetup/gtg35) (2018/09/25)
 - [Golang Taiwan Gathering #34](meetup/gtg34) (2018/08/30)
 - [Golang Taiwan Gathering #30](meetup/gtg30) (2018/03/27)
 - [Golang Taiwan Gathering #29](meetup/gtg29) (2017/10/31)
@@ -29,6 +30,6 @@
 - [Golang Taiwan Gathering #12](meetup/gtg12) (2015/01/14)
 - [Golang Taiwan Gathering #11](meetup/gtg11) (2014/09/24)
 - [Golang Taiwan Gathering #10](meetup/gtg10) (2014/04/16)
-- [Golang Taiwan Gathering #08](meetup/gtg8)   (2014/01/16)
+- [Golang Taiwan Gathering #08](meetup/gtg8)  (2014/01/16)
 
 
