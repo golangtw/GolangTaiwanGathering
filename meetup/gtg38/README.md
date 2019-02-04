@@ -13,3 +13,5 @@
 - Garbage collection in Go: Jalex Chang
 
 - 初探 Go-WebAssembly: David Chang [[slide](https://speakerdeck.com/ofalpha/design-a-dark-traffic-system-with-goreplay)]
+
+- Carousell Monolithic To Microservice [[slide](https://www.slideshare.net/hothero0705/monolithic-to-microservices)]
