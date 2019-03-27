@@ -10,8 +10,6 @@
 
 ### Talks
 
-- Garbage collection in Go: Jalex Chang
+- Design a dark traffic system with Goreplay: Sean Hsieh (Garmin international)
 
-- 初探 Go-WebAssembly: David Chang [[slide](https://speakerdeck.com/ofalpha/design-a-dark-traffic-system-with-goreplay)]
-
-- Carousell Monolithic To Microservice [[slide](https://www.slideshare.net/hothero0705/monolithic-to-microservices)]
+- Carousell Monolithic To Microservice: Ronald Hsu (Carousell) [[slide](https://www.slideshare.net/hothero0705/monolithic-to-microservices)]
