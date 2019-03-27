@@ -12,5 +12,5 @@
 
 - Golang 和容器跟 ETCD 整合: 品辰 Liou Pin Chen [[slide](https://github.com/LiouPinChen/etcd-panel-clips)]
 
-- Maintainable Go: 小徹 Cherie Hsieh (Trend Micro)
+- Maintainable Go: 小徹 Cherie Hsieh (Trend Micro) [[slide](https://www.slideshare.net/CherrieHsieh/maintainable-go)]
 
