@@ -16,6 +16,7 @@
 - [Golang Taiwan Gathering #36](meetup/gtg36) (2018/10/23)
 - [Golang Taiwan Gathering #35](meetup/gtg35) (2018/09/25)
 - [Golang Taiwan Gathering #34](meetup/gtg34) (2018/08/30)
+- [Golang Taiwan Gathering #31](meetup/gtg31) (2018/04/24)
 - [Golang Taiwan Gathering #30](meetup/gtg30) (2018/03/27)
 - [Golang Taiwan Gathering #29](meetup/gtg29) (2017/10/31)
 - [Golang Taiwan Gathering #28](meetup/gtg28) (2017/10/24)
