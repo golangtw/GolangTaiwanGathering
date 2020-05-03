@@ -7,6 +7,7 @@
 
 [Golang Taipei](https://www.meetup.com/golang-taipei-meetup/)
 
+- [Golang Taiwan Gathering #48](meetup/gtg48) (2020/04/28)
 - [Golang Taiwan Gathering #47](meetup/gtg47) (2020/03/13)
 - [Golang Taiwan Gathering #46](meetup/gtg46) (2019/12/24)
 - [Golang Taiwan Gathering #45](meetup/gtg45) (2019/11/05)
