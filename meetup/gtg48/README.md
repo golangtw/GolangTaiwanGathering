@@ -11,5 +11,5 @@
 ### Talks
 
 - interface in Go / 林高遠 [Slides](http://web.ntnu.edu.tw/~60132057A/File/interface_in_Go_2020_0428_zh-TW.pdf)
-- 基於 Go 語言開發的階層門檻試簽章(Hierarchical Threshold Signature Scheme) 函式庫 / 莊治耘(AMIS)、徐粲邦(AMIS)
+- 基於 Go 語言開發的階層門檻試簽章(Hierarchical Threshold Signature Scheme) 函式庫 / 莊治耘(AMIS)、徐粲翔(AMIS) [Slides](https://www.slideshare.net/AMISAMIS3/go-hierarchical-threshold-signature-scheme)
 
