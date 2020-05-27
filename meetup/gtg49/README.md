@@ -10,7 +10,7 @@
 
 ### Talks
 
-- LeetCode 挑戰 / 船長 [Slides]() [video](https://youtu.be/RoM4hGFW6Mc?t=1506)
+- LeetCode 挑戰 / 船長 [Slides](https://eehsiao.github.io/LeetCode20200526-gtg49.pdf) [video](https://youtu.be/RoM4hGFW6Mc?t=1506)
 - How to use Golang download YouTube video / Evan Lin
 [Slides](https://speakerdeck.com/line_developers_tw/how-to-use-golang-download-youtube-video) [video](https://youtu.be/RoM4hGFW6Mc?t=4373)
 
