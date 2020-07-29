@@ -6,6 +6,6 @@
 
 ### Talks
 
-- Golang 的四個熱門 PostgreSQL Library 比較 / Ruian Huang  [slides]() [video]()
-- 從 source code 學習 golang channel / Genchi Lu [slides]() [video]()
+- Golang 的四個熱門 PostgreSQL Library 比較 / Ruian Huang  [[slide](slides/golang-pg-libs-comparasion.pdf)] [video]()
+- 從 source code 學習 golang channel / Genchi Lu [slide]() [video]()
 
