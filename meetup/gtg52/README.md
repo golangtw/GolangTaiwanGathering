@@ -22,7 +22,7 @@ Go 的 standard library 內已經內建了 net package，並以此為基礎提�
 
 分享在使用 cgo 串接現有的 c library 讀取， usb 裝置送來的訊息的應用所遇到之困難。此應用目的是讀取一把自製的 usb 鍵盤的 debug message，但因 cgo call performance，channel 的特性而讀取到異常的訊息。我將分析問題的成因，以及最後的解決方法。。
 
-### Peter Lai -- Debug golang program with delve [slides 待補]
+### Peter Lai -- Debug golang program with delve [[slides](https://github.com/diodechain/presentations/blob/master/COSCUP_2020/Debug-golang-program-with-Delve%20.pdf)]
 
 1. how delve works.
 2. debug with delve.
@@ -40,7 +40,7 @@ Go 的 standard library 內已經內建了 net package，並以此為基礎提�
 
 相信蠻多 Gopher 都知道改寫自 tcmalloc 的 Go dynamic allocator，不過你有了解過 Go 的 goroutine stack 與其 local variable allocation 機制嗎？本次分享將由工程師最熟悉的 C local variable allocation 講起，然後再來說明 Go 是如何實現它的 goroutine stack 和 local variable allocation，並且也會提到 goroutine stack extension 議題。
 
-### kakashi-- 從零開始貢獻 Go 相關 open source project [slides 待補]
+### kakashi-- 從零開始貢獻 Go 相關 open source project [[slides](https://docs.google.com/presentation/d/1y8_Z7JTJtNEiIpWiE--ncZ8yTRH7l37v-bEnU_uQ4iw/edit?usp=sharing)]
 
 生為長期使用 Go 的開發者，難免會用到很多相關的 opensource tool，而一般來說，很多的 open source project 都相對比較成熟，也讓人比較難以參與，這邊講者想要分享一個比較容易貢獻的模式，並且分享從中學習的過程。
 
