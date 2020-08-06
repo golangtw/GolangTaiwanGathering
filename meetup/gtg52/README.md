@@ -44,6 +44,6 @@ Go 的 standard library 內已經內建了 net package，並以此為基礎提�
 
 生為長期使用 Go 的開發者，難免會用到很多相關的 opensource tool，而一般來說，很多的 open source project 都相對比較成熟，也讓人比較難以參與，這邊講者想要分享一個比較容易貢獻的模式，並且分享從中學習的過程。
 
-### Yu-Lang Chu-- Go Go Power Slice! [slides 待補]
+### Yu-Lang Chu-- Go Go Power Slice! [[slides](https://www.slideshare.net/JulianYuLangChu/go-go-power-slice)]
 
 slice in golang is a very important type to perform operations on collection data. When you have experience with other programming languages, will find the design of slice has some differences when compared to similar type in other programming languages. These differences make us need to pay attention to memory allocation by doing slice manipulation in order to get better performance or avoid some mistakes. Let’s start from source code to discuss more details in slice manipulation.
