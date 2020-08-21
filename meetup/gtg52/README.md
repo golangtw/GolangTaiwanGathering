@@ -20,7 +20,7 @@ Go 的 standard library 內已經內建了 net package，並以此為基礎提�
 
 ### lschyi -- cgo 與 channel 的陷阱如何造成讀取 usb message 失敗 [[slides](https://hackmd.io/@_Zlxrb-rRNucaVTNB_4_yQ/HyR_eHMZv#/)] [[video](https://www.youtube.com/watch?v=BhhG5B3Iqc4)]
 
-分享在使用 cgo 串接現有的 c library 讀取， usb 裝置送來的訊息的應用所遇到之困難。此應用目的是讀取一把自製的 usb 鍵盤的 debug message，但因 cgo call performance，channel 的特性而讀取到異常的訊息。我將分析問題的成因，以及最後的解決方法。。
+分享在使用 cgo 串接現有的 c library 讀取， usb 裝置送來的訊息的應用所遇到之困難。此應用目的是讀取一把自製的 usb 鍵盤的 debug message，但因 cgo call performance，channel 的特性而讀取到異常的訊息。我將分析問題的成因，以及最後的解決方法。。
 
 ### Peter Lai -- Debug golang program with delve [[slides](https://github.com/diodechain/presentations/blob/master/COSCUP_2020/Debug-golang-program-with-Delve%20.pdf)] [[video](https://www.youtube.com/watch?v=MVcWLd5YbMc)]
 
