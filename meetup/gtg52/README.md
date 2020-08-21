@@ -40,7 +40,7 @@ Go 的 standard library 內已經內建了 net package，並以此為基礎提�
 
 相信蠻多 Gopher 都知道改寫自 tcmalloc 的 Go dynamic allocator，不過你有了解過 Go 的 goroutine stack 與其 local variable allocation 機制嗎？本次分享將由工程師最熟悉的 C local variable allocation 講起，然後再來說明 Go 是如何實現它的 goroutine stack 和 local variable allocation，並且也會提到 goroutine stack extension 議題。
 
-### kakashi-- 從零開始貢獻 Go 相關 open source project [[slides](https://docs.google.com/presentation/d/1y8_Z7JTJtNEiIpWiE--ncZ8yTRH7l37v-bEnU_uQ4iw/edit?usp=sharing)]
+### kakashi-- 從零開始貢獻 Go 相關 open source project [[slides](https://docs.google.com/presentation/d/1y8_Z7JTJtNEiIpWiE--ncZ8yTRH7l37v-bEnU_uQ4iw/edit?usp=sharing)] [[video](https://www.youtube.com/watch?v=L9uJgYaepYs)]
 
 生為長期使用 Go 的開發者，難免會用到很多相關的 opensource tool，而一般來說，很多的 open source project 都相對比較成熟，也讓人比較難以參與，這邊講者想要分享一個比較容易貢獻的模式，並且分享從中學習的過程。
 
