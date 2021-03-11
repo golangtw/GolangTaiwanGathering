@@ -10,7 +10,7 @@
 
 ### Talks
 
-- 輕鬆「Go」建事件驅動應用/ Ming @LINE [Slides](https://speakerdeck.com/line_developers_tw2/20210223-golang-meetup-qing-song-go-jian-shi-jian-qu-dong-ying-yong)[Video](https://www.youtube.com/watch?v=fa3fSfoZmPY)
+- 輕鬆「Go」建事件驅動應用/ Ming @LINE [Slides](https://speakerdeck.com/line_developers_tw2/20210223-golang-meetup-qing-song-go-jian-shi-jian-qu-dong-ying-yong) [Video](https://www.youtube.com/watch?v=fa3fSfoZmPY)
 
-- go-bbs 開源經驗開發分享 / Pichu Chen [Slides]()[Video](https://youtu.be/fa3fSfoZmPY?t=3165)
+- go-bbs 開源經驗開發分享 / Pichu Chen [Slides]() [Video](https://youtu.be/fa3fSfoZmPY?t=3165)
 
