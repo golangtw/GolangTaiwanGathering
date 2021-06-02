@@ -4,7 +4,7 @@
 
 #### 2021/06/01(Tus) 19:30 ~ 21:30  (UTC+8)
 
-### Resgistration Page:
+### Registration Page:
 
 #### [Registration Info](https://www.meetup.com/golang-taipei-meetup/events/278400349/)
 
