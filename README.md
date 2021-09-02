@@ -7,6 +7,7 @@
 
 [Golang Taipei](https://www.meetup.com/golang-taipei-meetup/)
 
+- [Golang Taiwan Gathering #59](meetup/gtg59) (2021/08/31)
 - [Golang Taiwan Gathering #58](meetup/gtg58) (2021/07/31) in [COSCUP 2021](https://coscup.org/2021)
 - [Golang Taiwan Gathering #57](meetup/gtg57) (2021/06/01)
 - [Golang Taiwan Gathering #56](meetup/gtg56) (2021/04/27)
