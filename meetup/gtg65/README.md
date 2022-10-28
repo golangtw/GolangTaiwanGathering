@@ -10,4 +10,4 @@
 
 ### Talks
 
-- Atomic 以及 Lock 的運作原理 / Vic Xu@ 幣託 BitoEx  [Slides]()
+- Atomic 以及 Lock 的運作原理 / Vic Xu@ 幣託 BitoEx  [Slides](slides/atomic-and-lock.pdf)
