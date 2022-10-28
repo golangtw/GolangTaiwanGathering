@@ -2,11 +2,11 @@
 
 [![Join the chat at https://gitter.im/golangtw/GolangTaiwanGathering](https://badges.gitter.im/golangtw/GolangTaiwanGathering.svg)](https://gitter.im/golangtw/GolangTaiwanGathering?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-
 ### Detail Meetup Website
 
 [Golang Taipei](https://www.meetup.com/golang-taipei-meetup/)
 
+- [Golang Taiwan Gathering #65](meetup/gtg65) (2022/10/27)
 - [Golang Taiwan Gathering #64](meetup/gtg64) (2022/09/29)
 - [Golang Taiwan Gathering #61](meetup/gtg61) (2021/11/02)
 - [Golang Taiwan Gathering #60](meetup/gtg60) (2021/09/29)
@@ -58,5 +58,3 @@
 - [Golang Taiwan Gathering #11](meetup/gtg11) (2014/09/24)
 - [Golang Taiwan Gathering #10](meetup/gtg10) (2014/04/16)
 - [Golang Taiwan Gathering #08](meetup/gtg8)  (2014/01/16)
-
-
