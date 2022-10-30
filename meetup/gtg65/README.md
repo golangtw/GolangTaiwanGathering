@@ -11,3 +11,7 @@
 ### Talks
 
 - Atomic 以及 Lock 的運作原理 / Vic Xu@ 幣託 BitoEx  [Slides](slides/atomic-and-lock.pdf)
+
+### Lighting Talks
+
+- 在 Golang 服務中整合 tracing 的那件小事 / David @ Crescendo Lab [Slides](https://slides.com/ting-lichou/golang-tracing)
